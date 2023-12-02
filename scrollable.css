@@ -1,0 +1,9 @@
+.remark-slide-scaler {
+    overflow-y: auto !important;
+    max-height: 150vh !important;
+    overflow-x:auto !important;
+}
+
+.remark-slide-number {
+    display: none;
+}
