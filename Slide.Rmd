@@ -491,6 +491,7 @@ skim(data)
 ]
 
 ]
+
 ---
 ### Model building
 ```{r}
@@ -640,9 +641,8 @@ knitr::include_graphics("table 6.png")
 
 + Organize your code and your files
 
-+ Using Google to search your questions
++ Use Google to search your questions
 
-+ Figure out your questions
 
 + The most important thing is to achieve your goals. It does no matter how you write your code
 
